@@ -1,6 +1,6 @@
 package chapter02.item02;
 
-//빙더 패턴
+//빌더 패턴
 public class NutritionFacts3 {
     private final int servingSize;  //필수
     private final int servings;     //필수

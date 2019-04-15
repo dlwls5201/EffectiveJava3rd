@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0772aa4-bea5-4ed8-9fee-0bd8af0c00a0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/chapter02/item02/NutritionFacts2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter02/item02/NutritionFacts2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter02/item02/NutritionFacts3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter02/item02/NutritionFacts3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/effectivejava3rd/item01.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/effectivejava3rd/item01.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/effectivejava3rd/item02.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/effectivejava3rd/item02.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,11 +55,47 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/effectivejava3rd/item01.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+            <state relative-caret-position="397">
+              <caret line="76" selection-start-line="76" selection-end-line="79" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/effectivejava3rd/item02.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="38" column="58" selection-start-line="38" selection-start-column="58" selection-end-line="38" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter02/item02/NutritionFacts2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="35" column="7" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="41" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter02/item02/NutritionFacts3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter02/item02/NutritionFacts1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="39" column="61" lean-forward="true" selection-start-line="38" selection-start-column="8" selection-end-line="39" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -91,9 +130,7 @@
         <option value="$PROJECT_DIR$/src/chapter02/item02/NutritionFacts.java" />
         <option value="$PROJECT_DIR$/src/chapter02/item02/NutritionFactsJavaBins.java" />
         <option value="$PROJECT_DIR$/src/chapter02/item02/NutritionFactsBuilder.java" />
-        <option value="$PROJECT_DIR$/src/chapter02/item02/NutritionFacts3.java" />
         <option value="$PROJECT_DIR$/src/chapter02/item02/NutritionFacts1.java" />
-        <option value="$PROJECT_DIR$/src/chapter02/item02/NutritionFacts2.java" />
         <option value="$PROJECT_DIR$/src/chapter02/item02/NyPizza.java" />
         <option value="$PROJECT_DIR$/src/chapter02/item02/Calzone.java" />
         <option value="$PROJECT_DIR$/src/chapter02/item02/Pizza.java" />
@@ -119,6 +156,9 @@
         <option value="$PROJECT_DIR$/src/chapter02/item01/Foo.java" />
         <option value="$PROJECT_DIR$/src/effectivejava3rd/readme.md" />
         <option value="$PROJECT_DIR$/src/effectivejava3rd/item01.md" />
+        <option value="$PROJECT_DIR$/src/chapter02/item02/NutritionFacts2.java" />
+        <option value="$PROJECT_DIR$/src/chapter02/item02/NutritionFacts3.java" />
+        <option value="$PROJECT_DIR$/src/effectivejava3rd/item02.md" />
       </list>
     </option>
   </component>
@@ -306,7 +346,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -320,7 +360,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" />
@@ -360,27 +400,6 @@
     <entry file="file://$PROJECT_DIR$/src/chapter02/item02/Calzone.java" />
     <entry file="file://$PROJECT_DIR$/src/chapter02/item02/NyPizza.java" />
     <entry file="file://$PROJECT_DIR$/src/chapter02/item02/Pizza.java" />
-    <entry file="file://$PROJECT_DIR$/src/chapter02/item02/NutritionFacts3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="39" column="24" lean-forward="true" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter02/item02/NutritionFacts1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="28" column="6" lean-forward="true" selection-start-line="28" selection-start-column="6" selection-end-line="33" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter02/item02/NutritionFacts2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -544,10 +563,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter02/item02/NutritionFacts2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="35" column="7" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="41" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter02/item02/NutritionFacts3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter02/item02/NutritionFacts1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="39" column="61" lean-forward="true" selection-start-line="38" selection-start-column="8" selection-end-line="39" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/effectivejava3rd/item01.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+        <state relative-caret-position="397">
+          <caret line="76" selection-start-line="76" selection-end-line="79" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/effectivejava3rd/item02.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="58" selection-start-line="38" selection-start-column="58" selection-end-line="38" selection-end-column="58" />
         </state>
       </provider>
     </entry>
