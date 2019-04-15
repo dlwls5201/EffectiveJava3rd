@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0772aa4-bea5-4ed8-9fee-0bd8af0c00a0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/chapter02/item02/NutritionFacts2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter02/item02/NutritionFacts2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter02/item02/NutritionFacts3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter02/item02/NutritionFacts3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/effectivejava3rd/item01.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/effectivejava3rd/item01.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/effectivejava3rd/item02.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/effectivejava3rd/item02.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter02/item03/SingleTon3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter02/item03/SingleTon1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter02/item03/SingleTon1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter02/item03/SingleTon2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter02/item03/SingleTon2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/effectivejava3rd/item03.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/effectivejava3rd/item03.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,83 +20,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/effectivejava3rd/readme.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter02/item01/Example.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter02/item01/Foo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="478">
-              <caret line="62" column="5" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter02/item01/FooInterface.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="8" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/effectivejava3rd/item01.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
-              <caret line="76" selection-start-line="76" selection-end-line="79" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/effectivejava3rd/item03.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="265">
+              <caret line="67" column="54" selection-start-line="67" selection-start-column="54" selection-end-line="67" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/effectivejava3rd/item02.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="38" column="58" selection-start-line="38" selection-start-column="58" selection-end-line="38" selection-end-column="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter02/item02/NutritionFacts2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="35" column="7" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="41" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter02/item02/NutritionFacts3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter02/item02/NutritionFacts1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="39" column="61" lean-forward="true" selection-start-line="38" selection-start-column="8" selection-end-line="39" selection-end-column="61" />
+            <state relative-caret-position="397">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
             </state>
           </provider>
         </entry>
@@ -140,10 +78,8 @@
         <option value="$PROJECT_DIR$/src/chapter02/item03/ElvisEnum.java" />
         <option value="$PROJECT_DIR$/src/chapter02/item03/readme.md" />
         <option value="$PROJECT_DIR$/src/chapter02/item03/Elvis.java" />
-        <option value="$PROJECT_DIR$/src/chapter02/item03/SingleTon1.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/chapter02/item01/readme.md" />
-        <option value="$PROJECT_DIR$/src/chapter02/item03/SingleTon2.java" />
         <option value="$PROJECT_DIR$/src/chapter02/item04/readme.md" />
         <option value="$PROJECT_DIR$/src/chapter02/item05/readme.md" />
         <option value="$PROJECT_DIR$/src/chapter02/item05/SpellChecker.java" />
@@ -159,6 +95,10 @@
         <option value="$PROJECT_DIR$/src/chapter02/item02/NutritionFacts2.java" />
         <option value="$PROJECT_DIR$/src/chapter02/item02/NutritionFacts3.java" />
         <option value="$PROJECT_DIR$/src/effectivejava3rd/item02.md" />
+        <option value="$PROJECT_DIR$/src/chapter02/item03/SingleTon1.java" />
+        <option value="$PROJECT_DIR$/src/chapter02/item03/SingleTon2.java" />
+        <option value="$PROJECT_DIR$/src/chapter02/item03/SingleTon3.java" />
+        <option value="$PROJECT_DIR$/src/effectivejava3rd/item03.md" />
       </list>
     </option>
   </component>
@@ -257,6 +197,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="chapter02.item03" />
       <recent name="chapter02.item02" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -432,24 +373,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter02/item03/SingleTon1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter02/item03/SingleTon2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-          <folding>
-            <element signature="e#96#97#0" expanded="true" />
-            <element signature="e#120#121#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter02/item04/readme.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -528,13 +451,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter02/item01/Example.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/java.base/java/util/EnumSet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-534">
@@ -591,10 +507,59 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter02/item01/Example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter02/item03/SingleTon1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/java.base/java/io/Serializable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="168" column="17" selection-start-line="168" selection-start-column="17" selection-end-line="168" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter02/item03/SingleTon2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="74" />
+          <folding>
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter02/item03/SingleTon3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          <folding>
+            <element signature="e#164#165#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/effectivejava3rd/item02.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="58" selection-start-line="38" selection-start-column="58" selection-end-line="38" selection-end-column="58" />
+        <state relative-caret-position="397">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/effectivejava3rd/item03.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="67" column="54" selection-start-line="67" selection-start-column="54" selection-end-line="67" selection-end-column="54" />
         </state>
       </provider>
     </entry>
