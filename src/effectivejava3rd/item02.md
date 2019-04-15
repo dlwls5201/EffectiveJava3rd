@@ -1,7 +1,7 @@
 # 생성자 매개변수가 많다면 빌더를 고려하라
 
 ## 점층적 생성자 패턴
-***안정적이나 확장하기 어렵다.***
+**안정적이나 확장하기 어렵다.**
 ```java
 NutritionFacts1 cocaCola =
                 new NutritionFacts1(240, 8, 100, 10, 35, 27);
@@ -9,7 +9,7 @@ NutritionFacts1 cocaCola =
 점층적 생성자 패턴도 쓸 수 있지만, 매개변수 개수가 많아지면 클라이언트 코드를 작성하거나 읽기 어렵다.
 
 ## 자바빈즈패턴
-***일관성이 깨지고, 불변으로 만들 수 없다***
+**일관성이 깨지고, 불변으로 만들 수 없다**
 ```java
 NutritionFacts2 cocaCola = new NutritionFacts2();
        cocaCola.setServingSize(240);
@@ -24,7 +24,7 @@ NutritionFacts2 cocaCola = new NutritionFacts2();
 일관성이 무너지는 문제 때문에 자바빈즈 패턴에서는 클래스를 불변으로 만들 수 없으며 스레드 안전성을 얻으려면 프로그래머가 추가 작업을 해줘야 한다.
 
 ## 빌더패턴
-***점층적 생성자와 자바빈즈 패턴의 장점만을 취했다***
+**점층적 생성자와 자바빈즈 패턴의 장점만을 취했다**
 ```java
 NutritionFacts3 cocaCola = new Builder(240, 8)
                 .calories(100).sodium(35).carbohydrate(27).build();
