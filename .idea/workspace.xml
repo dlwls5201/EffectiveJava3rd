@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0772aa4-bea5-4ed8-9fee-0bd8af0c00a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter/item13_15_17_50.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter/item51.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter/item64_67.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter/item64.md" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter/item13_15_17_50.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/readme/item13_15_17_50.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter/item51.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/readme/item51.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter/item57_58.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/readme/item57_58.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter/item61.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/readme/item61.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter/item64_67.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/readme/item64_67.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,60 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter/item57_58.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" selection-start-line="30" selection-end-line="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter/item61.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter/item64_67.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/chapter/item13_15_17_50.md">
+        <entry file="file://$PROJECT_DIR$/src/readme.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-              <folding>
-                <element signature="e#404#405#0" expanded="true" />
-                <element signature="e#444#445#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter/item51.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+            <state relative-caret-position="75">
+              <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -108,7 +58,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/chapter2/Item1.java" />
         <option value="$PROJECT_DIR$/src/chapter02/Item1.java" />
         <option value="$PROJECT_DIR$/src/chapter02/item01/Item1.java" />
         <option value="$PROJECT_DIR$/src/chapter02/item01/FooInterface.java" />
@@ -159,6 +108,7 @@
         <option value="$PROJECT_DIR$/src/temp2/Test2.java" />
         <option value="$PROJECT_DIR$/src/temp1/Test1.java" />
         <option value="$PROJECT_DIR$/src/chapter/item13_15_17_50.md" />
+        <option value="$PROJECT_DIR$/src/readme.md" />
       </list>
     </option>
   </component>
@@ -191,7 +141,7 @@
               <item name="EffectiveJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="EffectiveJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter" type="462c0819:PsiDirectoryNode" />
+              <item name="readme" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -349,7 +299,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571754950175</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="item 정리">
+      <created>1571763617280</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1571763617280</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -391,7 +348,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="item 57" />
     <MESSAGE value="item 61, 64" />
-    <option name="LAST_COMMIT_MESSAGE" value="item 61, 64" />
+    <MESSAGE value="item 정리" />
+    <option name="LAST_COMMIT_MESSAGE" value="item 정리" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -588,24 +546,17 @@
     <entry file="file://$PROJECT_DIR$/EffectiveJava.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter/item61.md">
+    <entry file="file://$PROJECT_DIR$/src/readme/item61.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter/item51.md">
+    <entry file="file://$PROJECT_DIR$/src/readme/item51.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter/item57_58.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
@@ -656,7 +607,7 @@
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="e#404#405#0" expanded="true" />
             <element signature="e#444#445#0" expanded="true" />
@@ -664,7 +615,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter/item64_67.md">
+    <entry file="file://$PROJECT_DIR$/src/readme/item64_67.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="24" />
@@ -701,10 +652,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter/item13_15_17_50.md">
+    <entry file="file://$PROJECT_DIR$/src/readme/item57_58.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="450">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/readme/item13_15_17_50.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
         </state>
       </provider>
     </entry>
