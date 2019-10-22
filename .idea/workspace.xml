@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0772aa4-bea5-4ed8-9fee-0bd8af0c00a0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/chapter09/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter09/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter/item61.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter/item64.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter09/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter/item57_58.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,11 +19,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/chapter09/readme.md">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter/item57_58.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+            <state relative-caret-position="450">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter/item61.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/chapter/item64.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -89,6 +110,8 @@
         <option value="$PROJECT_DIR$/src/effectivejava3rd/item02.md" />
         <option value="$PROJECT_DIR$/src/chapter09/item57.md" />
         <option value="$PROJECT_DIR$/src/chapter09/readme.md" />
+        <option value="$PROJECT_DIR$/src/chapter09/item59.md" />
+        <option value="$PROJECT_DIR$/src/chapter/item64.md" />
       </list>
     </option>
   </component>
@@ -121,7 +144,7 @@
               <item name="EffectiveJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="EffectiveJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter09" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -132,7 +155,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/chapter09" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/chapter" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
@@ -141,11 +164,11 @@
       <recent name="chapter02.item02" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/chapter" />
       <recent name="$PROJECT_DIR$/src/chapter09" />
       <recent name="$PROJECT_DIR$/src/chapter02/item09" />
       <recent name="$PROJECT_DIR$/src/chapter02/item08" />
       <recent name="$PROJECT_DIR$/src/chapter02/item07" />
-      <recent name="$PROJECT_DIR$/src/chapter02/item06" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -228,7 +251,42 @@
       <option name="project" value="LOCAL" />
       <updated>1571750658356</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="item 57">
+      <created>1571751335120</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571751335120</updated>
+    </task>
+    <task id="LOCAL-00003" summary="item 57">
+      <created>1571751442366</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1571751442366</updated>
+    </task>
+    <task id="LOCAL-00004" summary="item 57">
+      <created>1571751469026</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1571751469026</updated>
+    </task>
+    <task id="LOCAL-00005" summary="item 57">
+      <created>1571751502261</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1571751502261</updated>
+    </task>
+    <task id="LOCAL-00006" summary="item 57">
+      <created>1571751587894</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1571751587894</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -466,10 +524,24 @@
     <entry file="file://$PROJECT_DIR$/EffectiveJava.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter09/readme.md">
+    <entry file="file://$PROJECT_DIR$/src/chapter/item57_58.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+        <state relative-caret-position="450">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/item61.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter/item64.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
         </state>
       </provider>
     </entry>
