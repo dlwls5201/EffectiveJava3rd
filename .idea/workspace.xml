@@ -2,7 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0772aa4-bea5-4ed8-9fee-0bd8af0c00a0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/effectivejava3rd/item03.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/effectivejava3rd/item03.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter02/item01/Example.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter02/item01/Foo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter02/item01/FooInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter02/item02/NutritionFacts1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter02/item02/NutritionFacts2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter02/item02/NutritionFacts3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter02/item03/SingleTon1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter02/item03/SingleTon2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter02/item03/SingleTon3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter02/item05/SpellChecker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter02/item05/SpellChecker2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/effectivejava3rd/item01.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/effectivejava3rd/item02.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/effectivejava3rd/item03.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/effectivejava3rd/item04.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/effectivejava3rd/item05.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter09/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/effectivejava3rd/item06.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/effectivejava3rd/item07.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/effectivejava3rd/item08.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/effectivejava3rd/item09.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/effectivejava3rd/readme.md" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,19 +38,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/effectivejava3rd/item03.md">
+        <entry file="file://$PROJECT_DIR$/src/chapter09/readme.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/effectivejava3rd/item02.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
-              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="285">
+              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -49,6 +61,7 @@
       <find>regularEnumSet</find>
       <find>NutritionFactsBuilder</find>
       <find>Regu</find>
+      <find>**클래스를 싱글턴으로 만들면 이를 사용하는 클라이언트를 테스트하기가 어려워질 수 있다.**</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -90,11 +103,13 @@
         <option value="$PROJECT_DIR$/src/effectivejava3rd/item01.md" />
         <option value="$PROJECT_DIR$/src/chapter02/item02/NutritionFacts2.java" />
         <option value="$PROJECT_DIR$/src/chapter02/item02/NutritionFacts3.java" />
-        <option value="$PROJECT_DIR$/src/effectivejava3rd/item02.md" />
         <option value="$PROJECT_DIR$/src/chapter02/item03/SingleTon1.java" />
         <option value="$PROJECT_DIR$/src/chapter02/item03/SingleTon2.java" />
         <option value="$PROJECT_DIR$/src/chapter02/item03/SingleTon3.java" />
         <option value="$PROJECT_DIR$/src/effectivejava3rd/item03.md" />
+        <option value="$PROJECT_DIR$/src/effectivejava3rd/item02.md" />
+        <option value="$PROJECT_DIR$/src/chapter09/item57.md" />
+        <option value="$PROJECT_DIR$/src/chapter09/readme.md" />
       </list>
     </option>
   </component>
@@ -110,7 +125,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -127,68 +142,18 @@
               <item name="EffectiveJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="EffectiveJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter02" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EffectiveJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EffectiveJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter02" type="462c0819:PsiDirectoryNode" />
-              <item name="item01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EffectiveJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EffectiveJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter02" type="462c0819:PsiDirectoryNode" />
-              <item name="item02" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EffectiveJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EffectiveJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter02" type="462c0819:PsiDirectoryNode" />
-              <item name="item03" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EffectiveJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EffectiveJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter02" type="462c0819:PsiDirectoryNode" />
-              <item name="item05" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EffectiveJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EffectiveJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter02" type="462c0819:PsiDirectoryNode" />
-              <item name="item05" type="462c0819:PsiDirectoryNode" />
-              <item name="SpellChecker.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="EffectiveJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EffectiveJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter02" type="462c0819:PsiDirectoryNode" />
-              <item name="item05" type="462c0819:PsiDirectoryNode" />
-              <item name="SpellChecker2.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="EffectiveJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EffectiveJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="effectivejava3rd" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter09" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/chapter02/item09" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/chapter09" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
@@ -197,11 +162,11 @@
       <recent name="chapter02.item02" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/chapter09" />
       <recent name="$PROJECT_DIR$/src/chapter02/item09" />
       <recent name="$PROJECT_DIR$/src/chapter02/item08" />
       <recent name="$PROJECT_DIR$/src/chapter02/item07" />
       <recent name="$PROJECT_DIR$/src/chapter02/item06" />
-      <recent name="$PROJECT_DIR$/src/chapter02/item05" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -281,8 +246,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -296,7 +262,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" />
@@ -336,52 +302,12 @@
     <entry file="file://$PROJECT_DIR$/src/chapter02/item02/Calzone.java" />
     <entry file="file://$PROJECT_DIR$/src/chapter02/item02/NyPizza.java" />
     <entry file="file://$PROJECT_DIR$/src/chapter02/item02/Pizza.java" />
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
-          <folding>
-            <element signature="e#64#65#0" expanded="true" />
-            <element signature="e#114#115#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter02/item03/readme.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter02/item01/readme.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter02/item02/readme.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter02/item04/readme.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="38" lean-forward="true" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter02/item05/readme.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="57" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/chapter02/item03/readme.md" />
+    <entry file="file://$PROJECT_DIR$/src/chapter02/item01/readme.md" />
+    <entry file="file://$PROJECT_DIR$/src/chapter02/item02/readme.md" />
+    <entry file="file://$PROJECT_DIR$/src/chapter02/item04/readme.md" />
+    <entry file="file://$PROJECT_DIR$/src/chapter02/item05/readme.md" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/UnsupportedOperationException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="268">
@@ -418,34 +344,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter02/item06/readme.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter02/item07/readme.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter02/item08/readme.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="28" lean-forward="true" selection-start-column="28" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter02/item09/readme.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="41" lean-forward="true" selection-start-column="41" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter02/item06/readme.md" />
+    <entry file="file://$PROJECT_DIR$/src/chapter02/item07/readme.md" />
+    <entry file="file://$PROJECT_DIR$/src/chapter02/item08/readme.md" />
+    <entry file="file://$PROJECT_DIR$/src/chapter02/item09/readme.md" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/java.base/java/util/EnumSet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-534">
@@ -460,20 +362,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/effectivejava3rd/readme.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter02/item01/Foo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="62" column="5" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter02/item02/NutritionFacts2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -485,34 +373,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter02/item02/NutritionFacts1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="39" column="61" lean-forward="true" selection-start-line="38" selection-start-column="8" selection-end-line="39" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/effectivejava3rd/item01.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="76" selection-start-line="76" selection-end-line="79" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter02/item01/Example.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter02/item03/SingleTon1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -546,15 +406,76 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/effectivejava3rd/item02.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        <state relative-caret-position="45">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/effectivejava3rd/item03.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
+        <state relative-caret-position="285">
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/effectivejava3rd/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/effectivejava3rd/item09.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/effectivejava3rd/item08.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter02/item01/Example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter02/item01/Foo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="62" column="5" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter02/item02/NutritionFacts1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter02/item03/SingleTon1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/effectivejava3rd/item01.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" column="2" selection-start-line="49" selection-start-column="2" selection-end-line="49" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/effectivejava3rd/item05.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EffectiveJava.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter09/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
         </state>
       </provider>
     </entry>
