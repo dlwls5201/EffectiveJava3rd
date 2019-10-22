@@ -2,28 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0772aa4-bea5-4ed8-9fee-0bd8af0c00a0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter02/item01/Example.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter02/item01/Foo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter02/item01/FooInterface.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter02/item02/NutritionFacts1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter02/item02/NutritionFacts2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter02/item02/NutritionFacts3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter02/item03/SingleTon1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter02/item03/SingleTon2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter02/item03/SingleTon3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter02/item05/SpellChecker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter02/item05/SpellChecker2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/effectivejava3rd/item01.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/effectivejava3rd/item02.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/effectivejava3rd/item03.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/effectivejava3rd/item04.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/effectivejava3rd/item05.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter09/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/effectivejava3rd/item06.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/effectivejava3rd/item07.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/effectivejava3rd/item08.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/effectivejava3rd/item09.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/effectivejava3rd/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter09/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter09/readme.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/chapter09/readme.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+            <state relative-caret-position="330">
+              <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -242,6 +221,14 @@
       <option name="presentableId" value="Default" />
       <updated>1554723819525</updated>
     </task>
+    <task id="LOCAL-00001" summary="item 57">
+      <created>1571750658356</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571750658356</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -278,6 +265,13 @@
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="item 57" />
+    <option name="LAST_COMMIT_MESSAGE" value="item 57" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/chapter02/item01/Item1.java" />
@@ -474,8 +468,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter09/readme.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        <state relative-caret-position="330">
+          <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
         </state>
       </provider>
     </entry>
