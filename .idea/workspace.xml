@@ -3,9 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="f0772aa4-bea5-4ed8-9fee-0bd8af0c00a0" name="Default Changelist" comment="item18 추가">
       <change afterPath="$PROJECT_DIR$/src/MyApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/readme/item78_79_82_83.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/readme/item85.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EffectiveJava/readme/item51.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/readme/item28_31.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/readme/item28_31.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EffectiveJava/MyApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EffectiveJava/MyApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EffectiveJava/readme/item28_31.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,11 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/readme/item28_31.md">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/readme/item78_79_82_83.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="379">
-              <caret line="111" column="53" selection-start-line="111" selection-start-column="53" selection-end-line="111" selection-end-column="53" />
+            <state>
+              <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -31,13 +34,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MyApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+            <state relative-caret-position="360">
+              <caret line="24" column="48" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#340#341#0" expanded="true" />
-                <element signature="e#367#368#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/readme.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/readme/item85.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -60,6 +79,7 @@
       <find>Regu</find>
       <find>**클래스를 싱글턴으로 만들면 이를 사용하는 클라이언트를 테스트하기가 어려워질 수 있다.**</find>
       <find>적시에 방어적 복사본을 만들라</find>
+      <find>sync</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -71,8 +91,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/chapter02/item09/readme.md" />
-        <option value="$PROJECT_DIR$/src/chapter02/item01/Example.java" />
         <option value="$PROJECT_DIR$/src/chapter02/item01/Foo.java" />
         <option value="$PROJECT_DIR$/src/effectivejava3rd/readme.md" />
         <option value="$PROJECT_DIR$/src/effectivejava3rd/item01.md" />
@@ -119,9 +137,11 @@
         <option value="$PROJECT_DIR$/src/readme/item64_67.md" />
         <option value="$PROJECT_DIR$/src/Temp.java" />
         <option value="$PROJECT_DIR$/src/readme/item51.md" />
-        <option value="$PROJECT_DIR$/readme.md" />
-        <option value="$PROJECT_DIR$/src/MyApp.java" />
         <option value="$PROJECT_DIR$/src/readme/item28_31.md" />
+        <option value="$PROJECT_DIR$/src/MyApp.java" />
+        <option value="$PROJECT_DIR$/src/readme/item78.md" />
+        <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/src/readme/item85.md" />
       </list>
     </option>
   </component>
@@ -416,6 +436,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2746781" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -470,16 +491,6 @@
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/chapter02/item08/readme.md" />
-    <entry file="file://$PROJECT_DIR$/src/chapter02/item09/readme.md" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/java.base/java/util/EnumSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-534">
-          <caret line="39" column="2" lean-forward="true" selection-start-line="39" selection-start-column="2" selection-end-line="39" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter02/item01/FooInterface.java" />
     <entry file="file://$PROJECT_DIR$/src/chapter02/item02/NutritionFacts2.java" />
     <entry file="file://$PROJECT_DIR$/src/chapter02/item02/NutritionFacts3.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/java.base/java/io/Serializable.java">
@@ -502,9 +513,6 @@
     <entry file="file://$PROJECT_DIR$/src/chapter02/item03/SingleTon1.java" />
     <entry file="file://$PROJECT_DIR$/src/effectivejava3rd/item01.md" />
     <entry file="file://$PROJECT_DIR$/src/effectivejava3rd/item05.md" />
-    <entry file="file://$PROJECT_DIR$/EffectiveJava.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/CloneKotlin.kt" />
     <entry file="file://$PROJECT_DIR$/src/CloneJava.java" />
     <entry file="file://$PROJECT_DIR$/src/temo.java" />
@@ -561,13 +569,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Temp.java" />
-    <entry file="file://$PROJECT_DIR$/src/readme/item13_15_17_50.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/readme/item24_42_43.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -589,24 +590,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/readme/item61.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/readme/item69_70.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/readme.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -617,22 +604,72 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/EffectiveJava.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/readme/item26_27_28_31.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/readme/item61.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/readme/item13_15_17_50.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="33" column="14" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ConcurrentHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="1209" column="20" selection-start-line="1209" selection-start-column="16" selection-end-line="1209" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/Executors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="72" column="13" selection-start-line="72" selection-start-column="13" selection-end-line="72" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/MyApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+        <state relative-caret-position="360">
+          <caret line="24" column="48" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#340#341#0" expanded="true" />
-            <element signature="e#367#368#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/readme/item28_31.md">
+    <entry file="file://$PROJECT_DIR$/src/readme/item78_79_82_83.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="111" column="53" selection-start-line="111" selection-start-column="53" selection-end-line="111" selection-end-column="53" />
+        <state>
+          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/readme/item85.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
